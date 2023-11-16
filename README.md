@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 这里是michaelssman。
 
 目前是一名iOS开发程序员。
-iOS的情况大家都懂的，整个编程行业都是如此，只能横向扩展编程语言知识，目前用的最多的语言是Swift，当然肯定会OC，Flutter项目也写，Python和java也有写，C++作为编程的基础也会。
+iOS的情况大家都懂的，整个编程行业都是如此，只能横向扩展编程语言知识，目前用的最多的语言是Swift，当然肯定会OC，Flutter项目也写，Python和java也有写，C++作为基础语言也会。
