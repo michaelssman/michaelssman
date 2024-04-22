@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 使用Flutter写了两个项目
   - 小木记账（iOS端已上线，安卓端因没有企业账号而暂未上线）
 - Python和java也有写
-- C++作为基础语言也会
+- C++和C作为基础语言也会
